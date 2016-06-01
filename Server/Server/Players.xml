@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Users>
+  <User>
+    <Username>BaidaBogdan</Username>
+    <Password>pivas1715</Password>
+    <Money>400</Money>
+    <Online>0</Online>
+  </User>
+  
+  <User>
+    <Username>AlexSkurzh</Username>
+    <Password>bober007</Password>
+    <Money>300</Money>
+    <Online>0</Online>
+  </User>
+  
+  <User>
+    <Username>sergibro48</Username>
+    <Password>bober007</Password>
+    <Money>200</Money>
+    <Online>0</Online>
+  </User>
+  
+  <User>
+    <Username>nazikpalko</Username>
+    <Password>bober007</Password>
+    <Money>200</Money>
+    <Online>0</Online>
+  </User>
+</Users>

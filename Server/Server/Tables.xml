@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tables>
+  <Table>
+    <Name>Texas Hold`em 6-max </Name>
+    <Size>6</Size>
+    <Blinds>10</Blinds>
+  </Table>
+  
+  <Table>
+    <Name>Texas Hold`em 9-max </Name>
+    <Size>9</Size>
+    <Blinds>10</Blinds>
+  </Table>
+</Tables>

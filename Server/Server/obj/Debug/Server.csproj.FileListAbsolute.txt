@@ -1,0 +1,6 @@
+C:\Users\Богдан\Desktop\Poker\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Богдан\Desktop\Poker\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Desktop\Poker\Server\Server\bin\Debug\Server.exe
+C:\Users\Богдан\Desktop\Poker\Server\Server\bin\Debug\Server.pdb
+C:\Users\Богдан\Desktop\Poker\Server\Server\obj\Debug\Server.exe
+C:\Users\Богдан\Desktop\Poker\Server\Server\obj\Debug\Server.pdb
